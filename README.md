@@ -15,3 +15,4 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="P5" width="26px" src="https://user-images.githubusercontent.com/40189403/139138195-54d7b428-6657-4b34-906c-ada118483707.png" />
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/40189403/139138501-9944fc1e-8c48-4c1b-a10b-966fe19b42fc.png" />
+<img align="left" alt="Vue" width="26px" src="https://user-images.githubusercontent.com/40189403/139140904-a61937f4-049a-410a-b8ce-feff9044e485.png" />
