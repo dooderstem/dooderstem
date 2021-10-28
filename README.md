@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="Images/youtube.svg" />][youtube]
+[<img align="left" alt="YouTube" width="22px" src="https://github.com/Saavv/Saavv/blob/5abab5bb5069d500666bf313b1e07d8462403cc3/Images/instagram.svg" />][youtube]
 [<img align="left" alt="Instagram" width="22px" src="Images/instagram.svg" />][instagram]
 
 <br>
