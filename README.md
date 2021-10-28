@@ -41,6 +41,8 @@
 
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/90e7aaaa-32cd-475d-9784-564b2ea86c69.png" /></a>
+
 [instagram]: https://www.instagram.com/saavvsmith/
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
 [discord]: https://discordapp.com/users/763824846219247636/
