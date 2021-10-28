@@ -1,7 +1,7 @@
 # About me
 
 - 👋 Hi, I’m Michael - aka @Saavv
-- My goal for 2021 is to start creating content by November, 2021 on YouTube
+- My goal for 2021 is to start creating content by the end of November, 2021 on YouTube
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
   <!-- - 💞️ I’m looking to collaborate on ... -->
