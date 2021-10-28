@@ -38,7 +38,7 @@
 <br>
 
 <details>
-  <summary>GitHub & VSCode Stats</summary>
+  <summary>🔥: GitHub & VSCode Stats</summary>
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
