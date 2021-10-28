@@ -39,7 +39,7 @@
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed alt="" width="26px" src="https://wakatime.com/share/@Saavv/89ee1370-fdc3-4694-b32b-926b861802d1.svg"></embed></figure>
+<figure><embed alt="WakaTime stats" width="460px" src="https://wakatime.com/share/@Saavv/89ee1370-fdc3-4694-b32b-926b861802d1.svg"></embed></figure>
 
 [instagram]: https://www.instagram.com/saavvsmith/
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
