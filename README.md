@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="" />][youtube]
-[<img align="left" alt="Instagram" width="22px" src="Images/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/40189403/139203102-f6cef8c4-ddb7-4e0c-9429-af4188af971a.png" />][instagram]
 
 <br>
 
@@ -30,6 +30,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/40189403/139186541-4f2e8aea-46f8-459f-9c5c-bf7aa7e012c1.png" />
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/40189403/139186934-1100d85b-ddfe-4861-94aa-990be1003186.png" />
 
+<br>
+<br>
 <br>
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv)](https://github.com/anuraghazra/github-readme-stats)
