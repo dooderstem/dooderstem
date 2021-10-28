@@ -1,12 +1,18 @@
 # About me
 
 - 👋 Hi, I’m Michael - aka @Saavv
-- 👀 I’m interested in ...
+- My goal in 2021 is to start creating content by November, 2021 on YouTube
 - 🌱 I’m currently learning everything 😂
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- - 👀 I’m interested in ... -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- - 📫 How to reach me ... -->
 
 ### Connect with me:
+
+[<img align="left" alt="YouTube" width="22px" src="Images/youtube.svg" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="Images/instagram.svg" />][instagram]
+
+<br>
 
 ### Languages and Tools:
 
@@ -23,3 +29,11 @@
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/40189403/139186391-b1ac9978-f34a-4bed-8aca-20a0936cc93b.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/40189403/139186541-4f2e8aea-46f8-459f-9c5c-bf7aa7e012c1.png" />
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/40189403/139186934-1100d85b-ddfe-4861-94aa-990be1003186.png" />
+
+<br>
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[instagram]: https://www.instagram.com/saavvsmith/
+[youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
