@@ -35,7 +35,7 @@
 <br>
 <br>
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv)](https://github.com/anuraghazra/github-readme-stats?theme=github_dark)
 
 [instagram]: https://www.instagram.com/saavvsmith/
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
