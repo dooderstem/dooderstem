@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][YouTube]
-[<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/40189403/139203102-f6cef8c4-ddb7-4e0c-9429-af4188af971a.png" />][Instagram]
-[<img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/40189403/139208883-a661c4ed-7018-4615-9ece-012fa8a343a2.png" />][Discord]
+[<img align="left" alt="YouTube" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/40189403/139203102-f6cef8c4-ddb7-4e0c-9429-af4188af971a.png" />][instagram]
+[<img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/40189403/139208883-a661c4ed-7018-4615-9ece-012fa8a343a2.png" />][discord]
 
 <br>
 
@@ -37,8 +37,6 @@
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saavv)](https://github.com/anuraghazra/github-readme-stats)
 
-[Instagram]: https://www.instagram.com/saavvsmith/
-[YouTube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
-[Discord]: https://discordapp.com/users/763824846219247636/
-
-
+[instagram]: https://www.instagram.com/saavvsmith/
+[youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
+[discord]: https://discordapp.com/users/763824846219247636/
