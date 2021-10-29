@@ -1,6 +1,6 @@
-# About me
-
 ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey)
+
+# About me
 
 - 👋 Hello world, I’m Michael - aka @Saavv
 - 🏹 My goal for 2021 is to start creating content on YouTube by the end of November, 2021
