@@ -1,5 +1,7 @@
 # About me
 
+![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=You+Are+Viewer+Number&color=grey)
+
 - 👋 Hello world, I’m Michael - aka @Saavv
 - 🏹 My goal for 2021 is to start creating content on YouTube by the end of November, 2021
 - 🌱 I’m currently learning everything 😂
@@ -45,6 +47,7 @@
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
 
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/90e7aaaa-32cd-475d-9784-564b2ea86c69.png" /></a>
+
 </details>
 
 [instagram]: https://www.instagram.com/saavvsmith/
