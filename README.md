@@ -2,7 +2,7 @@
 
 # About me
 
-- 👋 Hello world, I’m Michael - aka @Saavv
+- 👋 Hello world, I’m Michael - aka @saavv
 - 🏹 My goal for 2021 is to start creating content on YouTube by the end of November, 2021
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
