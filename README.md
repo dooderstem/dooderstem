@@ -41,10 +41,10 @@
 
 <details>
   <summary>🔥:VSCode Stats</summary>
+  <!--   Activity over last 30 days -->
+<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/66983011-cb9a-44f8-881b-734071de7f32.png" /></a>
+<!--   Languages over all time -->
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
-
-<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/90e7aaaa-32cd-475d-9784-564b2ea86c69.png" /></a>
-
 </details>
 
 [instagram]: https://www.instagram.com/saavvsmith/
