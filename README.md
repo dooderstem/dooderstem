@@ -40,7 +40,8 @@
 <br>
 
 <details>
-  <summary>🔥:VSCode Stats</summary>
+  <summary>🔥:Stats</summary>
+  <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
   <!--   Activity over last 30 days -->
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/66983011-cb9a-44f8-881b-734071de7f32.png" /></a>
 <!--   Languages over all time -->
