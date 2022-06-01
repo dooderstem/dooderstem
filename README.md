@@ -2,6 +2,8 @@
 
 # About me
 
+This is a work in progress
+
 - 👋 Hello world, I’m Michael - aka @saavv
 - 🏹 My goal for 2021 is to start creating content on YouTube.
 - 🌱 I’m currently learning everything 😂
