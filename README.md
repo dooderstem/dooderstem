@@ -4,7 +4,7 @@
 
 This is a work in progress
 
-- 👋 Hello world, I’m Michael - aka @saavv
+- 👋 Hello, world! My name is Michael - aka @DoctorBraingoop
 - 🏹 My goal for 2021 is to start creating content on YouTube.
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
