@@ -59,6 +59,8 @@
 <!-- </p> -->
 <!-- ! Connect with me in HTML format -->
 
+<br>
+<br>
 <details>
   <summary>🔥:Stats</summary>
   <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
