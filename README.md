@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hello, world! My name is Michael - aka @DoctorBraingoop</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
-- 🏹 My goal for 2022 is to start creating content on YouTube.
+- 🏹 My goals for 2022 is to
+  - Open and run a small business
+  - Put my coding skills to use
+  - Create content on Twitch and Youtube
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
   <!-- - 💞️ I’m looking to collaborate on ... -->
