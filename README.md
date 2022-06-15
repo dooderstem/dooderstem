@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello, world! My name is Michael - aka @DoctorBraingoop</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
+<!-- profile-visits counter -->
 ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey)
 
 - 🏹 My goal for 2022 is to start creating content on YouTube.
@@ -24,8 +25,7 @@
 [twitch]: https://www.twitch.tv/saavvsmith
 [dev.to]: https://dev.to/saavv
 
-<br>
-<section>
+
 <h3 align="center">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Apple macOS" title="Apple macOS" width="26px" src="https://user-images.githubusercontent.com/40189403/139187464-2c35fa09-c1fb-41f0-967f-6cd5ba706782.png" />
@@ -41,8 +41,8 @@
 <img align="left" alt="GitHub" width="26px" title="GitHub" src="https://user-images.githubusercontent.com/40189403/139186541-4f2e8aea-46f8-459f-9c5c-bf7aa7e012c1.png" />
 <img align="left" alt="Bash" width="26px" title="BASH" src="https://user-images.githubusercontent.com/40189403/139186934-1100d85b-ddfe-4861-94aa-990be1003186.png" />
 
-</section>
-
+<br>
+<br>
 <br>
 <br>
 <details>
