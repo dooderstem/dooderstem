@@ -4,6 +4,8 @@
 <!-- profile-visits counter -->
 <!-- ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey) -->
 
+<img align="center" src="https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey"/>
+
 - 🏹 My goal for 2022 is to start creating content on YouTube.
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
@@ -20,9 +22,9 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][hashnode]
 
-[instagram]: https://www.instagram.com/saavvsmith/
+[instagram]: https://instagram.com/doctorbraingoop
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
-[twitch]: https://www.twitch.tv/saavvsmith
+[twitch]: https://www.twitch.tv/doctorbraingoop
 [discord]: https://discordapp.com/users/763824846219247636/
 [linkedin]: https://www.linkedin.com/in/michael-smith-a68056178/
 [dev.to]: https://dev.to/saavv
@@ -32,7 +34,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" pointer-events="none"/>
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Apple macOS" title="Apple macOS" width="26px" src="https://user-images.githubusercontent.com/40189403/139187464-2c35fa09-c1fb-41f0-967f-6cd5ba706782.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
