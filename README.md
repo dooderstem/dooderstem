@@ -51,13 +51,18 @@
 <br>
 
 <details>
-  <summary>🔥:Stats</summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop" width="100%" alt="doctorbraingoop" /></a> </p>
- 
-  <!--   Activity over last 30 days -->
+  <summary>🔥:Coding activity and GitHub stats</summary>
+  <!-- GitHub trophies -->
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop"  alt="doctorbraingoop" /></a> </p>
+<!--   Coding activity over last 7 days -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/2620cc34-d832-4a0d-9dbb-374690da1618.png" /></a>
-<!--   Languages over all time -->
+<!--   Coding languages over last 7 days -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/5e50acaf-a470-4f79-9363-6e552b6715b7.png" /></a>
+<!-- GitHub streaks -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doctorbraingoop&" alt="doctorbraingoop" /></p>
+<!-- GitHub stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorbraingoop&show_icons=true&locale=en" alt="doctorbraingoop" /></p>
+
 </details>
 
 <!-- ! `Connect with me` in HTML format -->
