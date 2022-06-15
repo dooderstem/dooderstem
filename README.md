@@ -25,6 +25,7 @@
 [twitch]: https://www.twitch.tv/saavvsmith
 [dev.to]: https://dev.to/saavv
 
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -45,6 +46,7 @@
 <br>
 <br>
 <br>
+
 <details>
   <summary>🔥:Stats</summary>
   <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
