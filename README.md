@@ -2,6 +2,7 @@
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
 <!-- profile-visits counter -->
+
 ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey)
 
 - 🏹 My goal for 2022 is to start creating content on YouTube.
@@ -13,17 +14,20 @@
 <h3 align="center">Connect with me:</h3>
 
 [<img align="left" alt="Twitch" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube]
 [<img align="left" alt="Twitch" width="22px" src="https://user-images.githubusercontent.com/40189403/139219389-375b38b3-1b2a-4ead-8747-3dc6cc251fd9.png" />][twitch]
 [<img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/40189403/139208883-a661c4ed-7018-4615-9ece-012fa8a343a2.png" />][discord]
 [<img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/40189403/139213461-f6497c2a-147f-4c0c-b8e8-61772736d1a2.png" />][linkedin]
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
+[<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" />][hashnode]
 
 [instagram]: https://www.instagram.com/saavvsmith/
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
+[twitch]: https://www.twitch.tv/saavvsmith
 [discord]: https://discordapp.com/users/763824846219247636/
 [linkedin]: https://www.linkedin.com/in/michael-smith-a68056178/
-[twitch]: https://www.twitch.tv/saavvsmith
 [dev.to]: https://dev.to/saavv
+[hashnode]: https://hashnode.com/@braingoop
 
 <br>
 
@@ -56,19 +60,20 @@
 <a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
 </details>
 
-<!-- ! Connect with me in HTML format -->
+<!-- ! `Connect with me` in HTML format -->
 <!-- <p align="left"> -->
+<!-- <h3 align="center">Connect with me:</h3> -->
+
 <!-- dev.to -->
-
 <!-- <a href="https://dev.to/saavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saavv" height="30" width="40" /></a> -->
+
 <!-- hashnode -->
-
 <!-- <a href="https://hashnode.com/@braingoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@braingoop" height="30" width="40" /></a> -->
+
 <!-- instagram -->
-
 <!-- <a href="https://instagram.com/doctorbraingoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doctorbraingoop" height="30" width="40" /></a> -->
-<!-- youtube -->
 
+<!-- youtube -->
 <!-- [<img align="left" alt="YouTube" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube] -->
 <!-- </p> -->
-<!-- ! Connect with me in HTML format -->
+<!-- ! `Connect with me` in HTML format -->
