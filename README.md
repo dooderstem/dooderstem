@@ -2,8 +2,7 @@
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
 <!-- profile-visits counter -->
-
-![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey)
+<!-- ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey) -->
 
 - 🏹 My goal for 2022 is to start creating content on YouTube.
 - 🌱 I’m currently learning everything 😂
@@ -53,17 +52,17 @@
 
 <details>
   <summary>🔥:Stats</summary>
-  <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop" width="100%" alt="doctorbraingoop" /></a> </p>
+ 
   <!--   Activity over last 30 days -->
-<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/66983011-cb9a-44f8-881b-734071de7f32.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/2620cc34-d832-4a0d-9dbb-374690da1618.png" /></a>
 <!--   Languages over all time -->
-<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/5e50acaf-a470-4f79-9363-6e552b6715b7.png" /></a>
 </details>
 
 <!-- ! `Connect with me` in HTML format -->
-<!-- <p align="left"> -->
 <!-- <h3 align="center">Connect with me:</h3> -->
-
+<!-- <p align="left"> -->
 <!-- dev.to -->
 <!-- <a href="https://dev.to/saavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saavv" height="30" width="40" /></a> -->
 
