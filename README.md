@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hello, world! My name is Michael - aka @DoctorBraingoop</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
-<!-- profile-visits counter -->
-<!-- ![Counter](https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey) -->
-
-<img align="center" src="https://komarev.com/ghpvc/?username=Saavv&color=green&style=plastic&label=Profile+Views:&color=grey"/>
-
 - 🏹 My goal for 2022 is to start creating content on YouTube.
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
