@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hello, world! My name is Michael - aka @DoctorBraingoop</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
@@ -26,8 +25,8 @@
 [dev.to]: https://dev.to/saavv
 
 <br>
+<section>
 <h3 align="center">Languages and Tools:</h3>
-
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Apple macOS" title="Apple macOS" width="26px" src="https://user-images.githubusercontent.com/40189403/139187464-2c35fa09-c1fb-41f0-967f-6cd5ba706782.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,6 +40,19 @@
 <img align="left" alt="Git" width="26px" title="git" src="https://user-images.githubusercontent.com/40189403/139186391-b1ac9978-f34a-4bed-8aca-20a0936cc93b.png" />
 <img align="left" alt="GitHub" width="26px" title="GitHub" src="https://user-images.githubusercontent.com/40189403/139186541-4f2e8aea-46f8-459f-9c5c-bf7aa7e012c1.png" />
 <img align="left" alt="Bash" width="26px" title="BASH" src="https://user-images.githubusercontent.com/40189403/139186934-1100d85b-ddfe-4861-94aa-990be1003186.png" />
+
+</section>
+
+<br>
+<br>
+<details>
+  <summary>🔥:Stats</summary>
+  <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
+  <!--   Activity over last 30 days -->
+<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/66983011-cb9a-44f8-881b-734071de7f32.png" /></a>
+<!--   Languages over all time -->
+<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
+</details>
 
 <!-- ! Connect with me in HTML format -->
 <!-- <p align="left"> -->
@@ -58,14 +70,3 @@
 <!-- [<img align="left" alt="YouTube" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube] -->
 <!-- </p> -->
 <!-- ! Connect with me in HTML format -->
-
-<br>
-<br>
-<details>
-  <summary>🔥:Stats</summary>
-  <img src="https://ghchart.rshah.org/doctorbraingoop" alt="2016rshah's Github chart" />
-  <!--   Activity over last 30 days -->
-<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/66983011-cb9a-44f8-881b-734071de7f32.png" /></a>
-<!--   Languages over all time -->
-<a href="https://wakatime.com"><img width="480" src="https://wakatime.com/share/@Saavv/b9c5313b-5afc-4cf4-9a83-5787463dfbc7.png" /></a>
-</details>
