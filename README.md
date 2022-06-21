@@ -3,8 +3,8 @@
 
 - 🏹 My goals for 2022 is to
   - [x] Start blogging 🌠 
+  - [x] Put my coding skills to use
   - [ ] Open and run a small business
-  - [ ] Put my coding skills to use
   - [ ] Create content on Twitch and Youtube
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
