@@ -2,10 +2,10 @@
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
 - 🏹 My goals for 2022 is to
-  - Start blogging 🌠 
-  - Open and run a small business
-  - Put my coding skills to use
-  - Create content on Twitch and Youtube
+  - [x] Start blogging 🌠 
+  - [ ] Open and run a small business
+  - [ ] Put my coding skills to use
+  - [ ] Create content on Twitch and Youtube
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
   <!-- - 💞️ I’m looking to collaborate on ... -->
