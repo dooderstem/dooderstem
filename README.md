@@ -21,13 +21,13 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][hashnode]
 
-[instagram]: https://www.instagram.com/?utm_source=instagram&utm_medium=profile
+[instagram]: https://www.instagram.com/doctorbraingoop/?utm_source=github&utm_medium=banner
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
-[twitch]: https://bit.ly/3tXVFCh
+[twitch]: https://www.twitch.tv/doctorbraingoop?utm_source=github&utm_medium=banner
 [discord]: https://discordapp.com/users/763824846219247636/
-[linkedin]: https://bit.ly/3y9SSs9
-[dev.to]: https://bit.ly/3xRjSLw
-[hashnode]: https://bit.ly/39JLnyK
+[linkedin]: https://www.linkedin.com/in/michael-smith-iii-a68056178/?utm_source=github&utm_medium=banner
+[dev.to]: https://dev.to/saavv?utm_source=github&utm_medium=bio&utm_campaign=readme
+[hashnode]: https://hashnode.com/@Braingoop?utm_source=github&utm_medium=banner
 
 <br>
 
