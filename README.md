@@ -21,13 +21,13 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][hashnode]
 
-[instagram]: https://instagram.com/doctorbraingoop
+[instagram]: bit.ly/39JdEFC
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
-[twitch]: https://www.twitch.tv/doctorbraingoop
+[twitch]: https://bit.ly/3tXVFCh
 [discord]: https://discordapp.com/users/763824846219247636/
-[linkedin]: https://www.linkedin.com/in/michael-smith-a68056178/
-[dev.to]: https://dev.to/saavv
-[hashnode]: https://hashnode.com/@braingoop
+[linkedin]: https://bit.ly/3y9SSs9
+[dev.to]: https://bit.ly/3xRjSLw
+[hashnode]: https://bit.ly/39JLnyK
 
 <br>
 
