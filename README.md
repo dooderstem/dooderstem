@@ -21,7 +21,7 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][hashnode]
 
-[instagram]: "bit.ly/39JdEFC"
+[instagram]: https://www.instagram.com/?utm_source=instagram&utm_medium=profile
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
 [twitch]: https://bit.ly/3tXVFCh
 [discord]: https://discordapp.com/users/763824846219247636/
