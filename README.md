@@ -16,7 +16,7 @@
 [<img align="left" alt="Twitch" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/40189403/139202889-1ef81c4b-4754-42b0-92c1-46ebc81c93bf.png" />][youtube]
 [<img align="left" alt="Twitch" width="22px" src="https://user-images.githubusercontent.com/40189403/139219389-375b38b3-1b2a-4ead-8747-3dc6cc251fd9.png" />][twitch]
-[<img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/40189403/139208883-a661c4ed-7018-4615-9ece-012fa8a343a2.png" />][discord]
+<!-- [<img align="left" alt="Discord" width="22px" src="https://user-images.githubusercontent.com/40189403/139208883-a661c4ed-7018-4615-9ece-012fa8a343a2.png" />][discord] -->
 [<img align="left" alt="Linkedin" width="22px" src="https://user-images.githubusercontent.com/40189403/139213461-f6497c2a-147f-4c0c-b8e8-61772736d1a2.png" />][linkedin]
 [<img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" />][dev.to]
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244244346/Y0nrI4kKp.png?auto=compress&w=500" />][hashnode]
@@ -24,9 +24,9 @@
 [instagram]: https://www.instagram.com/doctorbraingoop/?utm_source=github&utm_medium=banner
 [youtube]: https://www.youtube.com/channel/UCGn4EWlzVdAuFpJ8Q_6VNqg
 [twitch]: https://www.twitch.tv/doctorbraingoop?utm_source=github&utm_medium=banner
-[discord]: https://discordapp.com/users/763824846219247636/
+<!-- [discord]: https://discordapp.com/users/763824846219247636/ -->
 [linkedin]: https://www.linkedin.com/in/michael-smith-iii-a68056178/?utm_source=github&utm_medium=banner
-[dev.to]: https://dev.to/saavv?utm_source=github&utm_medium=bio&utm_campaign=readme
+[dev.to]: https://dev.to/doctorbraingoop?utm_source=github&utm_medium=dev.to
 [hashnode]: https://hashnode.com/@Braingoop?utm_source=github&utm_medium=banner
 
 <br>
