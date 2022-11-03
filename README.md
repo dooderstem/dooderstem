@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, world! My name is Michael - aka @DoctorBraingoop</h1>
+<h1 align="center">👋 Hello, world! My name is Michael - aka @dooder-codes</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
 - 🏹 My goals for 2022 is to
