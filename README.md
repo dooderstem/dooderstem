@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hello, world! My name is Michael - aka @dooder-codes</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
-- 🏹 My goals for 2023 is to
-  - [ ] Start blogging 🌠 
-  - [ ] Put my coding skills to use
-  - [ ] Create and run a small business
-  - [ ] Create content on Twitch and Youtube
 - 🌱 I’m currently learning everything 😂
   <!-- - 👀 I’m interested in ... -->
   <!-- - 💞️ I’m looking to collaborate on ... -->
