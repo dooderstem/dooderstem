@@ -47,8 +47,8 @@
 <br>
 <br>
 
-<details>
-  <summary>🔥:Coding activity and GitHub stats</summary>
+<!-- <details> -->
+<!--   <summary>🔥:Coding activity and GitHub stats</summary> -->
   <!-- GitHub trophies -->
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop"  alt="doctorbraingoop" /></a> </p> -->
 <!-- GitHub streaks -->
@@ -56,11 +56,11 @@
 <!-- GitHub stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorbraingoop&show_icons=true&locale=en" alt="doctorbraingoop" /></p> -->
   
-<!--   Coding activity over last 7 days -->
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/8aa213da-c3a1-42d5-af73-410574921589.png" /></a>
-<!--   Coding languages over last 7 days -->
+
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/26f3c041-76fc-4a13-91c7-ee99163c77b5.png" /></a>
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/5e50acaf-a470-4f79-9363-6e552b6715b7.png" /></a>
-</details>
+<!-- </details> -->
 
 <!-- ! `Connect with me` in HTML format -->
 <!-- <h3 align="center">Connect with me:</h3> -->
