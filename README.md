@@ -56,7 +56,7 @@
 <!-- GitHub stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorbraingoop&show_icons=true&locale=en" alt="doctorbraingoop" /></p> -->
 <!--   Coding activity over last 7 days -->
-<a href="https://wakatime.com"><img src="[https://wakatime.com/share/@Saavv/2620cc34-d832-4a0d-9dbb-374690da1618.png](https://wakatime.com/share/@Saavv/8aa213da-c3a1-42d5-af73-410574921589.png)" /></a>
+<a href="https://wakatime.com"><img src="[https://wakatime.com/share/@Saavv/8aa213da-c3a1-42d5-af73-410574921589.png]([https://wakatime.com/share/@Saavv/8aa213da-c3a1-42d5-af73-410574921589.png](https://wakatime.com/share/@Saavv/8aa213da-c3a1-42d5-af73-410574921589.png))" /></a>
 <!--   Coding languages over last 7 days -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/5e50acaf-a470-4f79-9363-6e552b6715b7.png" /></a>
 </details>
