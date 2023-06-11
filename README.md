@@ -58,8 +58,7 @@
   
 
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/26f3c041-76fc-4a13-91c7-ee99163c77b5.png" /></a>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/5e50acaf-a470-4f79-9363-6e552b6715b7.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Saavv/b3db3d71-a552-41be-8471-dbb60c5f57d4.png" /></a>
 <!-- </details> -->
 
 <!-- ! `Connect with me` in HTML format -->
