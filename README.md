@@ -50,7 +50,7 @@ I'm working on this
 <br>
 
 <details>
-<summary>🔥:Click to view Coding activity and GitHub stats</summary>
+<summary>🔥:Click to View Coding Activity and GitHub Stats</summary>
   <!-- GitHub trophies -->
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop"  alt="doctorbraingoop" /></a> </p> -->
 <!-- GitHub streaks -->
