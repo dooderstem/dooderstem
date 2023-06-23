@@ -49,8 +49,8 @@ I'm working on this
 <br>
 <br>
 
-<!-- <details> -->
-<!--   <summary>🔥:Coding activity and GitHub stats</summary> -->
+<details> 
+<summary>🔥:Coding activity and GitHub stats</summary>
   <!-- GitHub trophies -->
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctorbraingoop"  alt="doctorbraingoop" /></a> </p> -->
 <!-- GitHub streaks -->
