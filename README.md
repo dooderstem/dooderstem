@@ -58,7 +58,7 @@
 <!-- GitHub stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctorbraingoop&show_icons=true&locale=en" alt="doctorbraingoop" /></p> -->
 
-<a href="https://wakatime.com/@Saavv"><img src="https://wakatime.com/share/@Saavv/d19c6184-4369-4867-a640-39e5592ba7b4.png" /></a>
+<!-- <a href="https://wakatime.com/@Saavv"><img src="https://wakatime.com/share/@Saavv/d19c6184-4369-4867-a640-39e5592ba7b4.png" /></a> -->
 <a href="https://wakatime.com/@Saavv"><img src="https://wakatime.com/share/@Saavv/26f3c041-76fc-4a13-91c7-ee99163c77b5.png" /></a>
 <a href="https://wakatime.com/@Saavv"><img src="https://wakatime.com/share/@Saavv/b3db3d71-a552-41be-8471-dbb60c5f57d4.png" /></a>
 
