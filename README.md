@@ -1,6 +1,6 @@
 <p align="center">I'm working on this</p>
 
-<h1 align="center">👋 Hello, world! My name is Michael - aka @dooder-codes</h1>
+<h1 align="center">👋 Hello, world! My name is Michael - aka @doodercodes</h1>
 <h3 align="center">AN ASPIRING FULL-STACK SOFTWARE ENGINEER</h3>
 
 - 🌱 I’m currently learning everything 😂
