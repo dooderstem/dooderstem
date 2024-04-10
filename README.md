@@ -1,3 +1,5 @@
+~ I am gonna either redesign this or massively improve it.
+
 <div align="center">
 
 <h1 align="center">dooderstem</h1>
