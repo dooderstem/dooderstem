@@ -4,7 +4,9 @@
 
 <h1 align="center">dooderstem</h1>
 
-<blockquote>FULL-STACK SOFTWARE ENGINEER / Content Creator</blockquote>
+<blockquote>
+MERN Stack Software Engineer, System Administration, Business Management student
+</blockquote>
 <br>
 <a href="https://wakatime.com/@ea28f326-2a79-433d-b170-9f4b95b68198"><img src="https://wakatime.com/badge/user/ea28f326-2a79-433d-b170-9f4b95b68198.svg" alt="Total time coded since Sep 20 2021" /></a>
 
