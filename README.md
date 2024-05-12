@@ -20,6 +20,9 @@ MERN Stack Software Engineer, System Administration, Business Management student
 
 <details>
 <summary>🔥:Click to View Coding Activity and GitHub Stats</summary>
+
+It apprears that Wakatime has been broken and malfunctioning for some time now. I will check up on it some other time. As for now, enjoy some very inaccurate data. 
+
   GitHub trophies
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doodercodes"  alt="doodercodes" /></a> </p>
 GitHub streaks
